@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16418720346",
+    "project_id": "ojulija1234",
+    "storage_bucket": "ojulija1234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16418720346:android:7282fb04a142737a8c6663",
+        "android_client_info": {
+          "package_name": "com.example.ojulija"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu1aIrchunYr4f-Ed4-xNYMjO1ZB239eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
